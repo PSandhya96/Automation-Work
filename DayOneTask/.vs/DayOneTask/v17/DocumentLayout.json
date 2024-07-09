@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automation session\\DayOneTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{223333C8-53FD-497E-B13D-9739A37BFD93}|DaythreeTask\\EmployeeDashboard\\EmployeeDashboard.csproj|c:\\automation session\\dayonetask\\daythreetask\\employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223333C8-53FD-497E-B13D-9739A37BFD93}|DaythreeTask\\EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:daythreetask\\employeedashboard\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B25D2D-AE6A-4EB4-B212-8A25797F0B8F}|Selenium\\Selenium Project 1\\Selenium Project 1.csproj|c:\\automation session\\dayonetask\\selenium\\selenium project 1\\runner 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B25D2D-AE6A-4EB4-B212-8A25797F0B8F}|Selenium\\Selenium Project 1\\Selenium Project 1.csproj|solutionrelative:selenium\\selenium project 1\\runner 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96E3B9D-DBE3-4A81-B762-4CE0AA955FCB}|DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj|c:\\automation session\\dayonetask\\daythreetask\\selenium project 2\\demo1basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96E3B9D-DBE3-4A81-B762-4CE0AA955FCB}|DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj|solutionrelative:daythreetask\\selenium project 2\\demo1basics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96E3B9D-DBE3-4A81-B762-4CE0AA955FCB}|DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj|c:\\automation session\\dayonetask\\daythreetask\\selenium project 2\\selenium project 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E96E3B9D-DBE3-4A81-B762-4CE0AA955FCB}|DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj|solutionrelative:daythreetask\\selenium project 2\\selenium project 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|c:\\automation session\\dayonetask\\dayfourtask\\seleniumproject3nunit\\seleniumproject3nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|solutionrelative:dayfourtask\\seleniumproject3nunit\\seleniumproject3nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|c:\\automation session\\dayonetask\\dayfourtask\\seleniumproject3nunit\\demo4frametest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|solutionrelative:dayfourtask\\seleniumproject3nunit\\demo4frametest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|c:\\automation session\\dayonetask\\dayfourtask\\seleniumproject3nunit\\demo3alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|solutionrelative:dayfourtask\\seleniumproject3nunit\\demo3alerttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|c:\\automation session\\dayonetask\\dayfourtask\\seleniumproject3nunit\\demo2tabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|solutionrelative:dayfourtask\\seleniumproject3nunit\\demo2tabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|c:\\automation session\\dayonetask\\dayfourtask\\seleniumproject3nunit\\demo1basictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED00B-802D-463E-943B-098BC0DD5ED0}|DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj|solutionrelative:dayfourtask\\seleniumproject3nunit\\demo1basictest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223333C8-53FD-497E-B13D-9739A37BFD93}|DaythreeTask\\EmployeeDashboard\\EmployeeDashboard.csproj|c:\\automation session\\dayonetask\\daythreetask\\employeedashboard\\employee runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223333C8-53FD-497E-B13D-9739A37BFD93}|DaythreeTask\\EmployeeDashboard\\EmployeeDashboard.csproj|solutionrelative:daythreetask\\employeedashboard\\employee runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DaythreeTask\\EmployeeDashboard\\Employee.cs",
+              "RelativeDocumentMoniker": "DaythreeTask\\EmployeeDashboard\\Employee.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DaythreeTask\\EmployeeDashboard\\Employee.cs",
+              "RelativeToolTip": "DaythreeTask\\EmployeeDashboard\\Employee.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:44:29.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Selenium Project 2",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj",
+              "RelativeDocumentMoniker": "DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj",
+              "RelativeToolTip": "DaythreeTask\\Selenium Project 2\\Selenium Project 2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T13:44:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Demo3AlertTest.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo3AlertTest.cs",
+              "RelativeDocumentMoniker": "DayfourTAsk\\SeleniumProject3Nunit\\Demo3AlertTest.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo3AlertTest.cs",
+              "RelativeToolTip": "DayfourTAsk\\SeleniumProject3Nunit\\Demo3AlertTest.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:09:25.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Demo2Tabs.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo2Tabs.cs",
+              "RelativeDocumentMoniker": "DayfourTAsk\\SeleniumProject3Nunit\\Demo2Tabs.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo2Tabs.cs",
+              "RelativeToolTip": "DayfourTAsk\\SeleniumProject3Nunit\\Demo2Tabs.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:04:55.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Demo1BasicTest.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo1BasicTest.cs",
+              "RelativeDocumentMoniker": "DayfourTAsk\\SeleniumProject3Nunit\\Demo1BasicTest.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo1BasicTest.cs",
+              "RelativeToolTip": "DayfourTAsk\\SeleniumProject3Nunit\\Demo1BasicTest.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:26:46.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeleniumProject3Nunit.csproj",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj",
+              "RelativeDocumentMoniker": "DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj",
+              "RelativeToolTip": "DayfourTAsk\\SeleniumProject3Nunit\\SeleniumProject3Nunit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T05:26:18.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo1Basics.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DaythreeTask\\Selenium Project 2\\Demo1Basics.cs",
+              "RelativeDocumentMoniker": "DaythreeTask\\Selenium Project 2\\Demo1Basics.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DaythreeTask\\Selenium Project 2\\Demo1Basics.cs",
+              "RelativeToolTip": "DaythreeTask\\Selenium Project 2\\Demo1Basics.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:09:04.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Runner 1.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\Selenium\\Selenium Project 1\\Runner 1.cs",
+              "RelativeDocumentMoniker": "Selenium\\Selenium Project 1\\Runner 1.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\Selenium\\Selenium Project 1\\Runner 1.cs",
+              "RelativeToolTip": "Selenium\\Selenium Project 1\\Runner 1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:40:05.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo4FrameTest.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo4FrameTest.cs",
+              "RelativeDocumentMoniker": "DayfourTAsk\\SeleniumProject3Nunit\\Demo4FrameTest.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DayfourTAsk\\SeleniumProject3Nunit\\Demo4FrameTest.cs",
+              "RelativeToolTip": "DayfourTAsk\\SeleniumProject3Nunit\\Demo4FrameTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:59:22.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee Runner.cs",
+              "DocumentMoniker": "C:\\Automation session\\DayOneTask\\DaythreeTask\\EmployeeDashboard\\Employee Runner.cs",
+              "RelativeDocumentMoniker": "DaythreeTask\\EmployeeDashboard\\Employee Runner.cs",
+              "ToolTip": "C:\\Automation session\\DayOneTask\\DaythreeTask\\EmployeeDashboard\\Employee Runner.cs",
+              "RelativeToolTip": "DaythreeTask\\EmployeeDashboard\\Employee Runner.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T14:36:22.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

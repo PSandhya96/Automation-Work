@@ -1,0 +1,14 @@
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\bin\Debug\net8.0\CsHARPpROJECT2.exe
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\bin\Debug\net8.0\CsHARPpROJECT2.deps.json
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\bin\Debug\net8.0\CsHARPpROJECT2.runtimeconfig.json
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\bin\Debug\net8.0\CsHARPpROJECT2.dll
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\bin\Debug\net8.0\CsHARPpROJECT2.pdb
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.AssemblyInfoInputs.cache
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.AssemblyInfo.cs
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.csproj.CoreCompileInputs.cache
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.dll
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\refint\CsHARPpROJECT2.dll
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.pdb
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\CsHARPpROJECT2.genruntimeconfig.cache
+C:\Automation session\DayOneTask\DaytwoTask\CsHARPpROJECT2\obj\Debug\net8.0\ref\CsHARPpROJECT2.dll

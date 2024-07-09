@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA37E06A-1808-443C-B0FB-CBF560FC6BD7}|NasscomTesting\\NasscomTesting.csproj|c:\\automation session\\assignment 7_6_24\\nasscomtesting\\nasscomtesting\\tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA37E06A-1808-443C-B0FB-CBF560FC6BD7}|NasscomTesting\\NasscomTesting.csproj|solutionrelative:nasscomtesting\\tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA37E06A-1808-443C-B0FB-CBF560FC6BD7}|NasscomTesting\\NasscomTesting.csproj|c:\\automation session\\assignment 7_6_24\\nasscomtesting\\nasscomtesting\\base\\automationwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA37E06A-1808-443C-B0FB-CBF560FC6BD7}|NasscomTesting\\NasscomTesting.csproj|solutionrelative:nasscomtesting\\base\\automationwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA37E06A-1808-443C-B0FB-CBF560FC6BD7}|NasscomTesting\\NasscomTesting.csproj|c:\\automation session\\assignment 7_6_24\\nasscomtesting\\nasscomtesting\\nasscomtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA37E06A-1808-443C-B0FB-CBF560FC6BD7}|NasscomTesting\\NasscomTesting.csproj|solutionrelative:nasscomtesting\\nasscomtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\NasscomTesting\\Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "NasscomTesting\\Tests\\Test1.cs",
+              "ToolTip": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\NasscomTesting\\Tests\\Test1.cs",
+              "RelativeToolTip": "NasscomTesting\\Tests\\Test1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T16:00:24.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomationWrapper.cs",
+              "DocumentMoniker": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\NasscomTesting\\Base\\AutomationWrapper.cs",
+              "RelativeDocumentMoniker": "NasscomTesting\\Base\\AutomationWrapper.cs",
+              "ToolTip": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\NasscomTesting\\Base\\AutomationWrapper.cs",
+              "RelativeToolTip": "NasscomTesting\\Base\\AutomationWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T15:59:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NasscomTesting.csproj",
+              "DocumentMoniker": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\NasscomTesting\\NasscomTesting.csproj",
+              "RelativeDocumentMoniker": "NasscomTesting\\NasscomTesting.csproj",
+              "ToolTip": "C:\\Automation session\\Assignment 7_6_24\\NasscomTesting\\NasscomTesting\\NasscomTesting.csproj",
+              "RelativeToolTip": "NasscomTesting\\NasscomTesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-07T15:58:28.817Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Automation session\DayTwoSession\DayTwoSession\bin\Debug\net8.0\DayTwoSession.exe
+C:\Automation session\DayTwoSession\DayTwoSession\bin\Debug\net8.0\DayTwoSession.deps.json
+C:\Automation session\DayTwoSession\DayTwoSession\bin\Debug\net8.0\DayTwoSession.runtimeconfig.json
+C:\Automation session\DayTwoSession\DayTwoSession\bin\Debug\net8.0\DayTwoSession.dll
+C:\Automation session\DayTwoSession\DayTwoSession\bin\Debug\net8.0\DayTwoSession.pdb
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.AssemblyInfoInputs.cache
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.AssemblyInfo.cs
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.csproj.CoreCompileInputs.cache
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.dll
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\refint\DayTwoSession.dll
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.pdb
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\DayTwoSession.genruntimeconfig.cache
+C:\Automation session\DayTwoSession\DayTwoSession\obj\Debug\net8.0\ref\DayTwoSession.dll

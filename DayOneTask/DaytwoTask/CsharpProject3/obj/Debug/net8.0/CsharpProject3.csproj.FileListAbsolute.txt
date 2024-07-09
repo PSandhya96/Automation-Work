@@ -1,0 +1,14 @@
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\bin\Debug\net8.0\CsharpProject3.exe
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\bin\Debug\net8.0\CsharpProject3.deps.json
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\bin\Debug\net8.0\CsharpProject3.runtimeconfig.json
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\bin\Debug\net8.0\CsharpProject3.dll
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\bin\Debug\net8.0\CsharpProject3.pdb
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.AssemblyInfoInputs.cache
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.AssemblyInfo.cs
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.csproj.CoreCompileInputs.cache
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.dll
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\refint\CsharpProject3.dll
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.pdb
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\CsharpProject3.genruntimeconfig.cache
+C:\Automation session\DayOneTask\DaytwoTask\CsharpProject3\obj\Debug\net8.0\ref\CsharpProject3.dll

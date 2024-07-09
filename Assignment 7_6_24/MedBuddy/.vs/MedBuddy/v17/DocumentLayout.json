@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D5B39-9182-40CC-94CA-370542BD6388}|MedBuddy\\MedBuddy.csproj|c:\\automation session\\assignment 7_6_24\\medbuddy\\medbuddy\\test\\popuptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D5B39-9182-40CC-94CA-370542BD6388}|MedBuddy\\MedBuddy.csproj|solutionrelative:medbuddy\\test\\popuptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D5B39-9182-40CC-94CA-370542BD6388}|MedBuddy\\MedBuddy.csproj|c:\\automation session\\assignment 7_6_24\\medbuddy\\medbuddy\\medbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E2D5B39-9182-40CC-94CA-370542BD6388}|MedBuddy\\MedBuddy.csproj|solutionrelative:medbuddy\\medbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2D5B39-9182-40CC-94CA-370542BD6388}|MedBuddy\\MedBuddy.csproj|c:\\automation session\\assignment 7_6_24\\medbuddy\\medbuddy\\base\\automationwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2D5B39-9182-40CC-94CA-370542BD6388}|MedBuddy\\MedBuddy.csproj|solutionrelative:medbuddy\\base\\automationwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PopUpTest.cs",
+              "DocumentMoniker": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\MedBuddy\\Test\\PopUpTest.cs",
+              "RelativeDocumentMoniker": "MedBuddy\\Test\\PopUpTest.cs",
+              "ToolTip": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\MedBuddy\\Test\\PopUpTest.cs",
+              "RelativeToolTip": "MedBuddy\\Test\\PopUpTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:29:48.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutomationWrapper.cs",
+              "DocumentMoniker": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\MedBuddy\\Base\\AutomationWrapper.cs",
+              "RelativeDocumentMoniker": "MedBuddy\\Base\\AutomationWrapper.cs",
+              "ToolTip": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\MedBuddy\\Base\\AutomationWrapper.cs",
+              "RelativeToolTip": "MedBuddy\\Base\\AutomationWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:18:28.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MedBuddy.csproj",
+              "DocumentMoniker": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\MedBuddy\\MedBuddy.csproj",
+              "RelativeDocumentMoniker": "MedBuddy\\MedBuddy.csproj",
+              "ToolTip": "C:\\Automation session\\Assignment 7_6_24\\MedBuddy\\MedBuddy\\MedBuddy.csproj",
+              "RelativeToolTip": "MedBuddy\\MedBuddy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T11:15:33.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

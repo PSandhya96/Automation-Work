@@ -1,0 +1,14 @@
+C:\Automation session\DayOneTask\DayOneTask\bin\Debug\net8.0\DayOneTask.exe
+C:\Automation session\DayOneTask\DayOneTask\bin\Debug\net8.0\DayOneTask.deps.json
+C:\Automation session\DayOneTask\DayOneTask\bin\Debug\net8.0\DayOneTask.runtimeconfig.json
+C:\Automation session\DayOneTask\DayOneTask\bin\Debug\net8.0\DayOneTask.dll
+C:\Automation session\DayOneTask\DayOneTask\bin\Debug\net8.0\DayOneTask.pdb
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.AssemblyInfoInputs.cache
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.AssemblyInfo.cs
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.csproj.CoreCompileInputs.cache
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.dll
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\refint\DayOneTask.dll
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.pdb
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\DayOneTask.genruntimeconfig.cache
+C:\Automation session\DayOneTask\DayOneTask\obj\Debug\net8.0\ref\DayOneTask.dll

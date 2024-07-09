@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|c:\\automation session\\nunit\\testprojecthealthrecordautomation\\testprojecthealthrecordautomation\\utilities\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|solutionrelative:testprojecthealthrecordautomation\\utilities\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|c:\\automation session\\nunit\\testprojecthealthrecordautomation\\testprojecthealthrecordautomation\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|solutionrelative:testprojecthealthrecordautomation\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|c:\\automation session\\nunit\\testprojecthealthrecordautomation\\testprojecthealthrecordautomation\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|solutionrelative:testprojecthealthrecordautomation\\test\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|c:\\automation session\\nunit\\testprojecthealthrecordautomation\\testprojecthealthrecordautomation\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|solutionrelative:testprojecthealthrecordautomation\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|c:\\automation session\\nunit\\testprojecthealthrecordautomation\\testprojecthealthrecordautomation\\pages\\searchoraddpatientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F2C1D3-2881-4BC2-B240-D6E102F9618C}|TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation.csproj|solutionrelative:testprojecthealthrecordautomation\\pages\\searchoraddpatientpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Utilities\\DataSource.cs",
+              "RelativeDocumentMoniker": "TestProjectHealthRecordAutomation\\Utilities\\DataSource.cs",
+              "ToolTip": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Utilities\\DataSource.cs",
+              "RelativeToolTip": "TestProjectHealthRecordAutomation\\Utilities\\DataSource.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:27:42.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Test\\LoginTest.cs",
+              "RelativeDocumentMoniker": "TestProjectHealthRecordAutomation\\Test\\LoginTest.cs",
+              "ToolTip": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Test\\LoginTest.cs",
+              "RelativeToolTip": "TestProjectHealthRecordAutomation\\Test\\LoginTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:26:55.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchOrAddPatientPage.cs",
+              "DocumentMoniker": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
+              "RelativeDocumentMoniker": "TestProjectHealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
+              "ToolTip": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
+              "RelativeToolTip": "TestProjectHealthRecordAutomation\\Pages\\SearchOrAddPatientPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:07:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Pages\\MainPage.cs",
+              "RelativeDocumentMoniker": "TestProjectHealthRecordAutomation\\Pages\\MainPage.cs",
+              "ToolTip": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Pages\\MainPage.cs",
+              "RelativeToolTip": "TestProjectHealthRecordAutomation\\Pages\\MainPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:06:44.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "TestProjectHealthRecordAutomation\\Pages\\LoginPage.cs",
+              "ToolTip": "C:\\Automation session\\nunit\\TestProjectHealthRecordAutomation\\TestProjectHealthRecordAutomation\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "TestProjectHealthRecordAutomation\\Pages\\LoginPage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T10:06:28.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

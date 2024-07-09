@@ -1,0 +1,22 @@
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\Selenium Project 2.exe
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\Selenium Project 2.deps.json
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\Selenium Project 2.runtimeconfig.json
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\Selenium Project 2.dll
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\Selenium Project 2.pdb
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\bin\Debug\net8.0\WebDriver.dll
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.csproj.AssemblyReference.cache
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.AssemblyInfoInputs.cache
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.AssemblyInfo.cs
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.csproj.CoreCompileInputs.cache
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium.6C838B92.Up2Date
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.dll
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\refint\Selenium Project 2.dll
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.pdb
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\Selenium Project 2.genruntimeconfig.cache
+C:\Automation session\DayOneTask\DaythreeTask\Selenium Project 2\obj\Debug\net8.0\ref\Selenium Project 2.dll

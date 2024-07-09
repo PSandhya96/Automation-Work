@@ -1,0 +1,14 @@
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.exe
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.deps.json
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.runtimeconfig.json
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.dll
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\bin\Debug\net8.0\EmployeeDashboard.pdb
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfoInputs.cache
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.AssemblyInfo.cs
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.csproj.CoreCompileInputs.cache
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.dll
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\refint\EmployeeDashboard.dll
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.pdb
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\EmployeeDashboard.genruntimeconfig.cache
+C:\Automation session\DayOneTask\DaythreeTask\EmployeeDashboard\obj\Debug\net8.0\ref\EmployeeDashboard.dll
